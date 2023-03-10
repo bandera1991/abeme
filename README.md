@@ -1,2 +1,0 @@
-# abeme
-abeme godlike website
